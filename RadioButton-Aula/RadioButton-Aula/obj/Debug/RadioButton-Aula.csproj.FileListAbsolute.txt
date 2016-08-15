@@ -1,0 +1,6 @@
+C:\Users\mauriciojunior\Desktop\RadioButton-Aula\RadioButton-Aula\bin\RadioButton-Aula.dll.config
+C:\Users\mauriciojunior\Desktop\RadioButton-Aula\RadioButton-Aula\bin\RadioButton-Aula.dll
+C:\Users\mauriciojunior\Desktop\RadioButton-Aula\RadioButton-Aula\bin\RadioButton-Aula.pdb
+C:\Users\mauriciojunior\Desktop\RadioButton-Aula\RadioButton-Aula\obj\Debug\RadioButton-Aula.csprojResolveAssemblyReference.cache
+C:\Users\mauriciojunior\Desktop\RadioButton-Aula\RadioButton-Aula\obj\Debug\RadioButton-Aula.dll
+C:\Users\mauriciojunior\Desktop\RadioButton-Aula\RadioButton-Aula\obj\Debug\RadioButton-Aula.pdb
